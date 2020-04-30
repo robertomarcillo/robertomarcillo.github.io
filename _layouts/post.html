@@ -17,7 +17,7 @@ layout: default
   <img src="{{ site.baseurl }}/assets/images/illustrations/heart.png" alt="illustrations" class="bg-shape-4">
   <img src="{{ site.baseurl }}/assets/images/illustrations/books.png" alt="illustrations" class="bg-shape-5">
   <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-cyan.png" alt="illustrations" class="bg-shape-6">
-  <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-lg.png" alt="illustrations" class="bg-shape-7">
+  <img src="{{ site.baseurl }}/assets/images/illustrations/books-1.png" alt="illustrations" class="bg-shape-7">
 </section>
 <!-- /page title -->
 
@@ -50,11 +50,9 @@ layout: default
         <article class="card shadow">
           <img class="rounded card-img-top" src="{{ site.baseurl }}/assets/images/blog/{{ post.image }}" alt="{{ post.title }}">
           <div class="card-body">
-            <h4 class="card-title"><a class="text-dark" href="{{ post.url | relative_url }}">Amazon increase income 1.5 Million</a>
+            <h4 class="card-title"><a class="text-dark" href="{{ post.url | relative_url }}">{{post.title}}</a>
             </h4>
-            <p class="cars-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-              incididunt ut labore et
-              dolore magna aliqua.</p>
+            <p class="cars-text">{{post.excerpt}}</p>
             <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Read More</a>
           </div>
         </article>
