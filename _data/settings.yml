@@ -62,20 +62,27 @@ blurb-btn-name: know more
 # Portfolio Home Section
 
 portfolio-home-book-items:
+
+
+  - image : "assets/images/portfolio/sweet_pea.jpg"
+    url: "#"
+
+  - image : "assets/images/portfolio/magnolia_sisters.jpg"
+    url: "/books/the-magnolia-sisters"
+
+  - image : "assets/images/portfolio/christmas_company.jpg"
+    url: "/books/the-christmas-company"
+
+  - image : "assets/images/portfolio/society_girl.jpg"
+    url: "/books/society-girl/"
+
   - image : "assets/images/portfolio/love_spells.jpg"
-    url: "#"
-    
-  - image : "assets/images/portfolio/mangnolia_sisters.jpg"
-    url: "#"
+    url: "/books/love-spells-for-the-end-of-the-world/"
     
   - image : "assets/images/portfolio/tea_cowboy.jpg"
-    url: "#"
+    url: "/books/tea-and-a-cowboy/"
     
-  - image : "assets/images/portfolio/christmas_company.jpg"
-    url: "#"
-    
-  - image : "assets/images/portfolio/society_girl.jpg"
-    url: "#"
+
 
 portfolio-home-movie-items:
 
@@ -100,7 +107,7 @@ portfolio-items:
     portfolio-type:
      - type: "novels"
     
-  - image : "assets/images/portfolio/mangnolia_sisters.jpg"
+  - image : "assets/images/portfolio/magnolia_sisters.jpg"
     url: "#"
     portfolio-type:
      - type: "novels"

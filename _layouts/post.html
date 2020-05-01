@@ -27,7 +27,6 @@ layout: default
       <div class="col-lg-12">
         <h3 class="font-tertiary mb-5">{{ page.title | escape }}</h3>
         <p class="font-secondary">Published on {{ page.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ page.author }}</span
-            class="text-primary"> on {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p>
         <div class="content">
           {{ content }}
         </div>
@@ -52,7 +51,7 @@ layout: default
           <div class="card-body">
             <h4 class="card-title"><a class="text-dark" href="{{ post.url | relative_url }}">{{post.title}}</a>
             </h4>
-            <p class="cars-text">{{post.excerpt}}</p>
+            <p class="cars-text">{{post.content | strip_html | truncatewords: 50}}</p>
             <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Read More</a>
           </div>
         </article>
