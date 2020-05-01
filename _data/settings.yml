@@ -8,10 +8,10 @@ phone: +447419345365
 address:
 
 menu:
-- {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
-- {name: Books and Movies, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: About, link: '/about'}
+- {name: Blog, link: '/blog'}
+- {name: Books and Movies, link: '/portfolio'}
+- {name: Contact, link: '/contact'}
 
 
 #-------------------------------
