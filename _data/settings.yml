@@ -3,9 +3,7 @@
 
 title: Alys Murray - Romance with Heart 
 logo: logo.png
-email: hello@alysmurray.com
-phone: +447419345365
-address:
+ 
 
 menu:
 - {name: About, link: '/about'}
@@ -65,7 +63,7 @@ portfolio-home-book-items:
 
 
   - image : "assets/images/portfolio/sweet_pea.jpg"
-    url: "#"
+    url: "/books/sweet-pea-summer"
 
   - image : "assets/images/portfolio/magnolia_sisters.jpg"
     url: "/books/the-magnolia-sisters"
@@ -87,7 +85,7 @@ portfolio-home-book-items:
 portfolio-home-movie-items:
 
   - image : "assets/images/portfolio/christmas_louisiana.jpg"
-    url: "#"
+    url: "/movies/christmas-in-louisiana"
 
 
 # Portfolio Page

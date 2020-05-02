@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: book
 title: The Magnolia Sisters
 date: 2020-02-12 11:12:31.000000000 +00:00
 type: page
@@ -17,7 +17,7 @@ meta:
 author: Alys Murray
 permalink: "/books/the-magnolia-sisters/"
 ---
-![50355327._UY2409_SS2409_]({{ site.baseurl }}/assets/images/portfolio/magnolia_sisters.jpg)
+![post-thumb]({{site.baseurl}}/assets/images/portfolio/magnolia_sisters.jpg){:class="img-fluid rounded float-right mr-5 mb-4"}
 
 **BOOK ONE IN THE HILLSBORO FLOWER FARM SERIES**
 

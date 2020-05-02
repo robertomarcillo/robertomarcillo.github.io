@@ -5,11 +5,13 @@
   @include desktop {
     flex-direction: column;
   }
+
 }
 
 img {
   max-width:600px;
   height:auto;
+  // width: 100%;
 }
 
 blockquote > p {
