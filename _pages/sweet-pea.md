@@ -23,10 +23,10 @@ May is determined to protect her heart, but a lot has changed since high school.
   
 **A heartwarming story about first love, family and the importance of second chances. Fans of Jenny Hale, Debbie Macomber and Robyn Carr will adore  _Sweet Pea Summer_.**
 
-AMZ: [https://geni.us/B085DXVTQJCover](https://geni.us/B085DXVTQJCover)
+[Amazon](https://geni.us/B085DXVTQJCover)
 
-Apple: [https://buff.ly/334LA7W](https://buff.ly/334LA7W)
+[Apple](https://buff.ly/334LA7W)
 
-Kobo: [https://buff.ly/3cEAmvc](https://buff.ly/3cEAmvc)
+[Kobo](https://buff.ly/3cEAmvc)
 
-Google: [https://buff.ly/2VWAQHf](https://buff.ly/2VWAQHf)
+[Google](https://buff.ly/2VWAQHf)
