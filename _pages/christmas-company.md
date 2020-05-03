@@ -27,12 +27,15 @@ _The Christmas Company_ is a modern, romantic take on the “Christmas Carol”
 
 Available for Purchase:
 
-Amazon: [http://amzn.to/2E956Ht](https://t.co/ZtUm914EtT) 
+[Amazon](https://t.co/ZtUm914EtT) 
 
-B&N: [http://bit.ly/2C3KGNp](https://t.co/TLnBLMgDDM) 
+[B&N](https://t.co/TLnBLMgDDM) 
 
-IndieBound: [http://bit.ly/2NuBq79](https://t.co/dqNTV9D8LW) 
+[IndieBound](https://t.co/dqNTV9D8LW) 
 
-The Ripped Bodice: [http://bit.ly/2QuxANa](https://t.co/wI0u3N5dPn) 
+[The Ripped Bodice](https://t.co/wI0u3N5dPn) 
 
-_CONTENT WARNINGS:_ Brief mention of past parent death, brief mention of past car accident, brief mention of parental abandonment, brief mention of parental alcoholism.
+<button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Content Warnings</button>
+<div id="spoiler" style="display:none">
+  Brief mention of past parent death, brief mention of past car accident, brief mention of parental abandonment, brief mention of parental alcoholism.
+</div>

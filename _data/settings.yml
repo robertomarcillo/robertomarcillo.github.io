@@ -20,7 +20,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: # UA-165424514-1
 
 
 #-------------------------------
@@ -99,33 +99,39 @@ portfolio-label:
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/love_spells.jpg"
-    url: "#"
+  - image : "assets/images/portfolio/sweet_pea.jpg"
+    url: "/books/sweet-pea-summer"
     portfolio-type:
      - type: "novels"
-    
+
+
   - image : "assets/images/portfolio/magnolia_sisters.jpg"
-    url: "#"
+    url: "/books/the-magnolia-sisters"
+    portfolio-type:
+     - type: "novels"
+
+  - image : "assets/images/portfolio/christmas_company.jpg"
+    url: "/books/the-christmas-company"
+    portfolio-type:
+     - type: "novels"
+
+  - image : "assets/images/portfolio/society_girl.jpg"
+    url: "/books/society-girl/"
+    portfolio-type:
+     - type: "novels"
+
+  - image : "assets/images/portfolio/love_spells.jpg"
+    url: "/books/love-spells-for-the-end-of-the-world/"
     portfolio-type:
      - type: "novels"
     
   - image : "assets/images/portfolio/tea_cowboy.jpg"
-    url: "#"
-    portfolio-type:
-     - type: "novels"
-    
-  - image : "assets/images/portfolio/christmas_company.jpg"
-    url: "#"
-    portfolio-type:
-     - type: "novels"
-    
-  - image : "assets/images/portfolio/society_girl.jpg"
-    url: "#"
+    url: "/books/tea-and-a-cowboy/"
     portfolio-type:
      - type: "novels"
 
   - image : "assets/images/portfolio/christmas_louisiana.jpg"
-    url: "#"
+    url: "/movies/christmas-in-louisiana"
     portfolio-type:
      - type: "movies"
      

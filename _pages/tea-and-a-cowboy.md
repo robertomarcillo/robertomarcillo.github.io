@@ -34,4 +34,8 @@ Amazon_:_ [https://amzn.to/2ZdPOaS](https://amzn.to/2ZdPOaS)
 
 Goodreads: [https://www.goodreads.com/book/show/44426334-tea-and-a-cowboy](https://www.goodreads.com/book/show/44426334-tea-and-a-cowboy)
 
-_CONTENT WARNINGS:_ Brief conflict regarding heroine's body image. (She thinks she's hot, but has doubts about how other people see it.)
+<button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Content Warnings</button>
+<div id="spoiler" style="display:none">
+  Brief conflict regarding heroine's body image. (She thinks she's hot, but has doubts about how other people see it.)
+</div>
+

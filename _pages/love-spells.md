@@ -33,6 +33,6 @@ But this year…Well, this year I accidentally knitted all of my anxieties into 
 
 So, the witch hunter and I have to team up with the rest of the town to stop her Which would be easy if I could just, you know, stop falling in love with Eli long enough to finish the job.
 
-Amazon (Free on Kindle Unlimited!): [https://amzn.to/2kBJdaL](https://amzn.to/2kBJdaL)
+[Amazon (Free on Kindle Unlimited!)](https://amzn.to/2kBJdaL)
 
-Goodreads: [https://bit.ly/2lFM3f8](https://bit.ly/2lFM3f8)
+[Goodreads](https://bit.ly/2lFM3f8)
