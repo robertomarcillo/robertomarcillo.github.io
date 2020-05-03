@@ -29,8 +29,12 @@ Daniel Best is the one man who truly sees Sam. The real her. The new mechanic fo
 
 The Society will let her in, if she destroys the one person she might be falling in love with first.
 
-Goodreads: [https://www.goodreads.com/book/show/43895061-society-girl](https://www.goodreads.com/book/show/43895061-society-girl)
+[Goodreads](https://www.goodreads.com/book/show/43895061-society-girl)
 
-Amazon: [https://www.amazon.com/Society-Girl-Alys-Murray-ebook/dp/B07V41F46H](https://www.amazon.com/Society-Girl-Alys-Murray-ebook/dp/B07V41F46H)
+[Amazon](https://www.amazon.com/Society-Girl-Alys-Murray-ebook/dp/B07V41F46H)
 
-_**CONTENT**_ **WARNINGS:** Scenes of Binge Drinking, Brief mention of parent death, Absent/Distant Father/Familial Trauma, Brief scenes of male violence.
+
+<button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Content Warnings</button>
+<div id="spoiler" style="display:none">
+  Scenes of Binge Drinking, Brief mention of parent death, Absent/Distant Father/Familial Trauma, Brief scenes of male violence.
+</div>

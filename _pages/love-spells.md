@@ -17,7 +17,7 @@ meta:
 author: Alys Murray
 permalink: "/books/love-spells-for-the-end-of-the-world/"
 ---
-![post-thumb]({{site.baseurl}}/assets/images/portfolio/love_spells.jpg){:class="img-fluid rounded float-right mr-5 mb-4"}
+![post-thumb]({{site.baseurl}}/assets/images/portfolio/love_spells.jpg){:class="img-fluid rounded float-right ml-5 mb-4"}
 
 _Perfect for fans of Hocus Pocus, Halloweentown, and Good Omens, this Halloween romance is certain to put you under its spell...._
 

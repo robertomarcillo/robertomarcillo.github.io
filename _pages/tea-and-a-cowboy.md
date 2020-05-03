@@ -19,7 +19,7 @@ author: Alys Murray
 permalink: "/books/tea-and-a-cowboy/"
 
 ---
-![post-thumb]({{site.baseurl}}/assets/images/portfolio/tea_cowboy.jpg){:class="img-fluid rounded float-right mr-5 mb-4"}
+![post-thumb]({{site.baseurl}}/assets/images/portfolio/tea_cowboy.jpg){:class="img-fluid rounded float-right ml-5 mb-4"}
 
 
 Cliff Masters could not be more different from his best friend's younger sister Bridgette Shaw. While he's out roping cattle at his family's ranch, she is running a tea parlor in the town square. He loves jeans and dirt; she loves hostess aprons and proper etiquette.

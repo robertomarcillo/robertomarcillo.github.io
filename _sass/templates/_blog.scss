@@ -8,11 +8,30 @@
 
 }
 
-img {
-  max-width:600px;
-  height:auto;
-  // width: 100%;
+/* xsm */
+.blog-img {
+  width: 100%;
+  height: auto;
 }
+/* sm */
+@media (min-width: 768px) {
+  .blog-img {
+      width: 75%;
+  }
+}
+/* md */
+@media (min-width: 992px) {
+  .blog-img {
+      width: 50%;
+  }
+}
+/* lg */
+@media (min-width: 1200px) {
+  .blog-img {
+      width: 60%;
+  }
+}
+
 
 blockquote > p {
   display: inline-block;

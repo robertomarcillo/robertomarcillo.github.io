@@ -17,7 +17,7 @@ meta:
 author: Alys Murray
 permalink: "/books/the-magnolia-sisters/"
 ---
-![post-thumb]({{site.baseurl}}/assets/images/portfolio/magnolia_sisters.jpg){:class="img-fluid rounded float-right mr-5 mb-4"}
+![post-thumb]({{site.baseurl}}/assets/images/portfolio/magnolia_sisters.jpg){:class="img-fluid rounded float-right ml-5 mb-4"}
 
 **BOOK ONE IN THE HILLSBORO FLOWER FARM SERIES**
 

@@ -18,7 +18,7 @@ meta:
 author: Alys Murray
 permalink: "/books/the-christmas-company/"
 ---
-![post-thumb]({{site.baseurl}}/assets/images/portfolio/christmas_company.jpg){:class="img-fluid rounded float-right mr-5 mb-4"}
+![post-thumb]({{site.baseurl}}/assets/images/portfolio/christmas_company.jpg){:class="img-fluid rounded float-right ml-5 mb-4"}
 
 
 _\*\*Soon to be a Hallmark Channel Countdown to Christmas movie!\*\*_

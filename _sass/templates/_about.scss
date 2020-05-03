@@ -22,33 +22,38 @@
     position: absolute;
     left: 0;
     top: 0;
+    max-width: 25%;
   }
   .bg-shape-2{
     position: absolute;
     left: 70px;
     top: 100px;
+    max-width: 25%;
   }
   .bg-shape-3{
     position: absolute;
     left: 30%;
     top: 105px;
+    max-width: 25%;
   }
 
   .bg-shape-4{
     position: absolute;
     left: 100px;
     bottom: 100px;
+    max-width: 25%;
   }
 
   .bg-shape-5{
     position: absolute;
     left: 40%;
     bottom: -25px;
+    max-width: 25%;
   }
 
   .bg-shape-6{
     position: absolute;
     bottom: 100px;
-    right: -100px;
+    max-width: 25%;
   }
 }

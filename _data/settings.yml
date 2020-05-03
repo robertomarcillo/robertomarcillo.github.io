@@ -3,7 +3,7 @@
 
 title: Alys Murray - Romance with Heart 
 logo: logo.png
- 
+
 
 menu:
 - {name: About, link: '/about'}
@@ -26,14 +26,14 @@ google-analytics: # UA-XXXXXX-X
 #-------------------------------
 # Comment Section (Disqus)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: alysmurray   # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Alys <br> Romance Author
+  hero-title: Hi! I’m <br> Alys Murray <br> Romance Author
 
 social:
 - {icon: "ti-twitter", link: "https://twitter.com/writeralys"}
@@ -47,10 +47,10 @@ social:
 
 # About Section
 blurb:
-  Alys Murray is an author who writes for the romantic in all of us. Though she graduated with a degree in Drama from NYU’s Tisch School of the Arts and a Master’s in Film Studies from King’s College London, her irrepressible love of romance led her to a career as an author, and she couldn’t be happier to write these stories! 
+  Alys Murray is an author and screenwriter from New Orleans, Louisiana.
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: learn more
 
 
 
@@ -60,7 +60,6 @@ blurb-btn-name: know more
 # Portfolio Home Section
 
 portfolio-home-book-items:
-
 
   - image : "assets/images/portfolio/sweet_pea.jpg"
     url: "/books/sweet-pea-summer"
@@ -133,5 +132,5 @@ portfolio-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: adam@bath.edu
+contact-title: Contact
+contact-email: alys.murray.13@gmail.com
