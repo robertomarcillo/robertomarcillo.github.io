@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Alys Murray
-image: assets/images/about/author.png
+image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
