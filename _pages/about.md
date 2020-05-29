@@ -8,7 +8,7 @@ signature: assets/images/about/signature.png
 
 Hello, dear reader!
 
-My name is Alys Murray and welcome to my website! Here, you’ll find everything there is to find about me: links to my social media pages, information about my books, and even some fun bonus content on my blog!
+My name is Alys Murray and welcome to my website! Here, you’ll find everything there is to find about me: links to my social media pages, information about my books, and even some fun bonus content on my blog! If you’re looking to talk to my representation, please contact Matt Felker at CAA in regards to film and television rights.
 
 Born and raised in New Orleans, Louisiana, I got my degrees at NYU and King’s College London before returning home to pursue my love of writing!
 
