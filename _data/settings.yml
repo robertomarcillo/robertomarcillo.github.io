@@ -61,6 +61,9 @@ blurb-btn-name: learn more
 
 portfolio-home-book-items:
 
+  - image : "assets/images/portfolio/wildflower-promises.jpg"
+    url: "/books/wildflower-promises/"
+
   - image : "assets/images/portfolio/sweet_pea.jpg"
     url: "/books/sweet-pea-summer"
 
@@ -78,6 +81,10 @@ portfolio-home-book-items:
     
   - image : "assets/images/portfolio/tea_cowboy.jpg"
     url: "/books/tea-and-a-cowboy/"
+
+
+    
+---
     
 
 
@@ -99,11 +106,15 @@ portfolio-label:
   }
 
 portfolio-items:
+  - image : "assets/images/portfolio/wildflower-promises.jpg"
+    url: "/books/wildflower-promises/"
+    portfolio-type:
+     - type: "novels"
+
   - image : "assets/images/portfolio/sweet_pea.jpg"
     url: "/books/sweet-pea-summer"
     portfolio-type:
      - type: "novels"
-
 
   - image : "assets/images/portfolio/magnolia_sisters.jpg"
     url: "/books/the-magnolia-sisters"
