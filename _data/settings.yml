@@ -61,6 +61,9 @@ blurb-btn-name: learn more
 
 portfolio-home-book-items:
 
+  - image : "assets/images/portfolio/villain_lover.jpg"
+    url: "/books/villain-lover/"
+
   - image : "assets/images/portfolio/wildflower-promises.jpg"
     url: "/books/wildflower-promises/"
 
