@@ -1,27 +1,29 @@
 {% if site.data.settings.portfolio-home-book-items %}
-<!-- portfolio -->
-<section class="section">
+<!-- education -->
+<section class="section position-relative">
   <div class="container">
     <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">Books</h2>
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">{{ site.data.settings.education-title }}</h2>
       </div>
-    </div>
-    <div class="row shuffle-wrapper">
-      {% for item in site.data.settings.portfolio-home-book-items %}
-      <div class="col-lg-4 col-6 mb-4 shuffle-item">
-        <div class="position-relative rounded hover-wrapper">
-          <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-          <div class="hover-overlay">
-            <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ item.url }}">view more</a>
-            </div>
+      {% for education in site.data.settings.education %}
+      <div class="col-lg-6 col-md-6 mb-80">
+        <div class="d-flex">
+          <div class="mr-lg-5 mr-3">
+            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+          </div>
+          <div>
+            <p class="text-dark mb-1">{{ education.date }}</p>
+            <h4>{{ education.name }}</h4>
+            <p class="mb-0 text-light">{{ education.organization }}</p>
           </div>
         </div>
       </div>
       {% endfor %}
     </div>
   </div>
+  <!-- bg image -->
+  <img class="img-fluid edu-bg-image w-100" src="{{ site.baseurl }}/assets/images/backgrounds/education-bg.png" alt="bg-image">
 </section>
-<!-- /portfolio -->
+<!-- /education -->
 {% endif %}
