@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About Me
-author: Alys Murray
+title: Acerca De
+author: Roberto suarez
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
