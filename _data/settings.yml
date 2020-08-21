@@ -8,7 +8,7 @@ logo: logo.png
 menu:
 - {name: Acerca de, link: '/about'}
 - {name: Blog, link: '/blog'}
-- {name: Educación, link: '/portfolio'}
+- {name: Educación, link: '/Educación'}
 
 
 
