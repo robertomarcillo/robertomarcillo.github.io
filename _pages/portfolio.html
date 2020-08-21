@@ -3,6 +3,8 @@ layout: page
 title: Educación
 ---
 <!-- portfolio -->
+{% if site.data.settings.education %}
+<!-- education -->
 <section class="section position-relative">
   <div class="container">
     <div class="row">
@@ -28,4 +30,6 @@ title: Educación
   <!-- bg image -->
   <img class="img-fluid edu-bg-image w-100" src="{{ site.baseurl }}/assets/images/backgrounds/education-bg.png" alt="bg-image">
 </section>
+<!-- /education -->
+{% endif %}
 <!-- /portfolio -->
