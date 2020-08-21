@@ -33,7 +33,7 @@ disqus-identifier: alysmurray   # Add your shortname for Disqus Comment. For exa
 # Hero Section
 
 hero:
-  hero-title: Hola! soy <br> roberto <br> bienvenido a mi blog
+  hero-title: Hola! soy <br> Roberto <br> bienvenido a mi blog
 
 social:
 - {icon: "ti-twitter", link: "https://twitter.com/writeralys"}
