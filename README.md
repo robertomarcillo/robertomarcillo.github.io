@@ -3,7 +3,7 @@
 	<p> Roberto suarez https://robertosuarezm.github.io/</p>
 	<a href="https://robertosuarezm.github.io/" >Live Preview</a>
 	
-	<img src="https:robertosuarezm.github.io"  width="100%" alt="roberto suarez">
+	
 </div>
 
 
