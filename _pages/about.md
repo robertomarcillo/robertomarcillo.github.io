@@ -6,18 +6,17 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Hello, dear reader!
+Hola!
 
-My name is Alys Murray and welcome to my website! Here, you’ll find everything there is to find about me: links to my social media pages, information about my books, and even some fun bonus content on my blog! If you’re looking to talk to my representation, please contact Matt Felker at CAA in regards to film and television rights.
+Mi nombre es Roberto suarez marcillo soy de Ecuador y vivo en la ciudad de Guayaquil, actualmente me encuentro estudiando la carrera de ingeniería en software.
+soy muy aficionado de todo lo que es la informática y la tecnología, 
+una de las cosas que mas me llama la atención es el desarrollo web y Aplicaciones móviles, para entender su funcionamiento desde lo general hasta lo más complejo de su funcionamiento. 
 
-Born and raised in New Orleans, Louisiana, I got my degrees at NYU and King’s College London before returning home to pursue my love of writing!
+En mis tiempos libres aprendo sobre las tecnologías que se utilizan para crear sitios web como lo es: 
+Html5, Css3 y los lenguajes de programación JavaScript, Php entre otros.
+Casi siempre estoy leyendo de diferentes temas relacionados a la aplicación de la tecnología a diferentes áreas del conocimiento, siendo el desarrollo de software algo que se actualiza tan rápido y a su vez el hardware, ambos hacen que cada día avancemos hacia el futuro de una forma en la que antes no nos hubiésemos imaginado.
 
-I love Star Wars, Hallmark movies, romance novels, Brendan Fraser and screwball comedies of the 1930’s and 1940’s. Tobey Maguire is my Spider-Man. Michael Bay has two films in the Criterion Collection. I’m an avid cook and baker, and have company over for big meals and parties any chance I get. If you’ve got a great recipe, please send it my way!
+Me gusta mucho las películas de Ciencia ficción, Comedia y de Acción.
 
-As a kid, I was a voracious reader, devouring everything from The Princess Diaries to Great Expectations. I started writing my own stories, plays, and fanfiction and developed a love for storytelling. Getting to write professionally is a dream come true, and when you read my books or watch my films, I hope they make you as happy as writing them has made me.
 
-If you ever have any questions, want to chat about my books or just say hello, you can reach me on any of my social media pages or with the contact form. I love connecting with readers and hope to hear from you soon!
 
-With love and happy reading,
-
-Alys
