@@ -36,10 +36,10 @@ hero:
   hero-title: Hola! soy <br> Roberto <br> bienvenido a mi blog
 
 social:
-- {icon: "ti-twitter", link: "https://twitter.com/writeralys"}
-- {icon: "ti-facebook", link: "https://www.facebook.com/alysmurrayauthor/"}
-- {icon: "ti-instagram", link: "https://www.instagram.com/writeralys/"}
-- {icon: "ti-youtube", link: "https://www.youtube.com/channel/UCEFlLCbgJJJSkyCoKrci_FA"}
+- {icon: "ti-twitter", link: "https://twitter.com/robertoMarcill0"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/RobertoMarcill"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/roberto_marcillo38/"}
+- {icon: "ti-youtube", link: "https://www.youtube.com"}
 
 
 #-------------------------------
