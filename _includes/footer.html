@@ -1,18 +1,17 @@
 <!-- footer -->
-<footer class="bg-dark footer-section">
-  <div class="section">
-    <div class="container">
-      <ul class="row position-relative">
-        {% for social in site.data.settings.social %}
-        <li style="font-size: 50px;" footer-social"><a class="text-white p-2" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></li>
+<ul class="row position-relative">
+{% for social in site.data.settings.social %}
+        <li style="font-size: 50px;" footer-social"><a class="text-black p-2" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></li>
         {% endfor %}
-      </ul>
-
+  </ul>
   <div class="border-top text-center border-dark py-5">
     <p class="mb-0 text-light">Copyright ©<script>
         var CurrentYear = new Date().getFullYear()
         document.write(CurrentYear)
       </script> Roberto Suarez <a href="https://github.com/robertosuarezm">:)</a></p>
+ 
+        
+       
   </div>
 </footer>
 <!-- /footer -->
