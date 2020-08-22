@@ -3,7 +3,7 @@
 	<p> Roberto suarez https://robertosuarezm.github.io/</p>
 	<a href="https://robertosuarezm.github.io/" >Live Preview</a>
 	
-	<img src="https:robertosuarezm.github.io/37659754/58154256-00627500-7c93-11e9-90c1-c145cb396902.gif"  width="100%" alt="kross portfolio template by themefisher">
+	<img src="https:robertosuarezm.github.io"  width="100%" alt="roberto suarez">
 </div>
 
 
@@ -17,8 +17,4 @@ To run the theme locally, navigate to the theme directory and run `bundle instal
 I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
 
-## Licensing
-
-
-- Licensed under MIT (https://github.com/themefisher/kross-jekyll-portfolio-template/blob/master/LICENSE.txt)
 
